@@ -1,0 +1,35 @@
+Q:When was the first computer invented?
+
+    a. 1945	
+    b. 1947
+    c. 1943
+    d. 1944
+A:c
+Q:How many generations of computers have been invented?
+
+    a. First Generation
+    b. Five Generation
+    c. Third Generation
+    d. Fourth Generation
+A:b
+Q:What is the computer main circuit board called?
+
+    a. Keyboard
+    b. Printer
+    c. CPU
+    d. Motherboard
+A:d
+Q:Which input device is used to enter letters,numbers and other character into a computer?
+
+    a. Keyboard
+    b. Printer
+    c. CPU
+    d. Motherboard
+A:a
+Q:When was the first 1GB disk drive released in the world?
+
+    a. 1970
+    b. 1980
+    c. 1990
+    d. 1960
+A:b
